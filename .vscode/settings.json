@@ -1,0 +1,8 @@
+{
+	"typescript.tsc.autoDetect": "off",
+	"files.exclude": {
+		"E:/Documents/Unreal Projects/UdemyProjects/BuildingEscape/.vscode": true,
+		"E:/Documents/Unreal Projects/UdemyProjects/BuildingEscape/Content": true,
+		"E:/Documents/Unreal Projects/UdemyProjects/BuildingEscape/Intermediate": true
+	}
+}
